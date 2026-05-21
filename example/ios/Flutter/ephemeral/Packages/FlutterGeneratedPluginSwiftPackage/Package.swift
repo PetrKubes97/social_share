@@ -15,6 +15,7 @@ let package = Package(
         .library(name: "FlutterGeneratedPluginSwiftPackage", type: .static, targets: ["FlutterGeneratedPluginSwiftPackage"])
     ],
     dependencies: [
+        .package(name: "social_share", path: "../.packages/social_share"),
         .package(name: "path_provider_foundation", path: "../.packages/path_provider_foundation-2.4.0"),
         .package(name: "image_picker_ios", path: "../.packages/image_picker_ios-0.8.12"),
         .package(name: "FlutterFramework", path: "../.packages/FlutterFramework")
@@ -23,6 +24,7 @@ let package = Package(
         .target(
             name: "FlutterGeneratedPluginSwiftPackage",
             dependencies: [
+                .product(name: "social-share", package: "social_share"),
                 .product(name: "path-provider-foundation", package: "path_provider_foundation"),
                 .product(name: "image-picker-ios", package: "image_picker_ios"),
                 .product(name: "FlutterFramework", package: "FlutterFramework")

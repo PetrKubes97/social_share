@@ -1,3 +1,8 @@
+## Unreleased
+
+- Updates the minimum supported SDK versions to Flutter 3.44 and Dart 3.12.
+- Migrates Android Gradle configuration to built-in Kotlin.
+
 ## 2.3.1
 
 ### Changes for the new version is done by [dpacchi](https://github.com/dpacchi) 🙌🙌

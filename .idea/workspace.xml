@@ -1,15 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="02295342-e95b-49c1-ac48-e0e4fdd85684" name="Changes" comment="" />
+    <list default="true" id="02295342-e95b-49c1-ac48-e0e4fdd85684" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/ephemeral/Packages/FlutterGeneratedPluginSwiftPackage/Package.swift" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Flutter/ephemeral/Packages/FlutterGeneratedPluginSwiftPackage/Package.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/ephemeral/flutter_native_integration.env" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Flutter/ephemeral/flutter_native_integration.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Podfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.h" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.m" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/SocialSharePlugin.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/SocialSharePlugin.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/social_share.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/ios/social_share.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="CopilotChats">
+    <option name="panelChat">
+      <chat>
+        <option name="activeSessionId" value="6df362cb-a276-4955-8120-6e71f10eb04e" />
+        <option name="sessions">
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="6df362cb-a276-4955-8120-6e71f10eb04e" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+        </option>
+        <option name="type" value="PANEL" />
+      </chat>
+    </option>
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/petr/Projects/social_share" value="2pQuM6iJQa2ciCkWJDghj4P85xK" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="144" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.7758441973977006" />
+      <entry key="MS500" value="4.235724518084153" />
+      <entry key="S2" value="6.075046777015795" />
+      <entry key="S5" value="6.605466633530298" />
+      <entry key="S10" value="6.806967786588195" />
+      <entry key="S30" value="9.241927179210675" />
+      <entry key="S60" value="16.35159832141962" />
+      <entry key="M2" value="26.36975044713536" />
+      <entry key="M5" value="41.60032068403158" />
+      <entry key="M10" value="54.517270339729954" />
+      <entry key="M15" value="61.336883652495544" />
+      <entry key="M30" value="70.232804059055" />
+      <entry key="H1" value="75.69662016962006" />
+      <entry key="H2" value="78.73458117621118" />
+      <entry key="H4" value="80.33767725164645" />
+      <entry key="D1" value="81.71872886531102" />
+      <entry key="W1" value="81.959713737606" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="6.318163141067072E-139" />
+      <entry key="S5" value="5.250931275430299E-56" />
+      <entry key="S10" value="2.2914910594262175E-28" />
+      <entry key="S30" value="6.11936073767883E-10" />
+      <entry key="S60" value="2.4737341687575925E-5" />
+      <entry key="M2" value="0.004973664814558367" />
+      <entry key="M5" value="0.1198589877388866" />
+      <entry key="M10" value="0.34620656801812216" />
+      <entry key="M15" value="0.49304913572707426" />
+      <entry key="M30" value="0.7021745763890017" />
+      <entry key="H1" value="0.8379585767739364" />
+      <entry key="H2" value="0.9154007738547826" />
+      <entry key="H4" value="0.9567657884011033" />
+      <entry key="D1" value="0.9926609545056868" />
+      <entry key="W1" value="0.9989482522201707" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.736549202498771" />
+      <entry key="MS500" value="4.209561094365987" />
+      <entry key="S2" value="6.065644905195515" />
+      <entry key="S5" value="6.601395618087308" />
+      <entry key="S10" value="6.804873835129445" />
+      <entry key="S30" value="9.240954164989997" />
+      <entry key="S60" value="16.350715982429648" />
+      <entry key="M2" value="26.373850667695482" />
+      <entry key="M5" value="41.71917754635283" />
+      <entry key="M10" value="54.86253280624512" />
+      <entry key="M15" value="61.82912809674851" />
+      <entry key="M30" value="70.93445624039241" />
+      <entry key="H1" value="76.53427953644848" />
+      <entry key="H2" value="79.64982162991171" />
+      <entry key="H4" value="81.29436003415024" />
+      <entry key="D1" value="82.71137557528728" />
+      <entry key="W1" value="82.95865994464678" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2pQuM6iJQa2ciCkWJDghj4P85xK" />
   <component name="ProjectReloadState">
     <option name="STATE" value="1" />
@@ -20,18 +140,42 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Flutter.main.dart.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "io.flutter.reload.alreadyRun": "true",
+    "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/petrkubes/Projects/social_share",
-    "nodejs_package_manager_path": "npm"
+    "last_opened_file_path": "/Users/petr/Projects/social_share",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "show.migrate.to.gradle.popup": "false",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/example/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
       </set>
     </attachedChunks>
   </component>
@@ -47,7 +191,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732710569659</updated>
+      <workItem from="1779360208828" duration="2383000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
   </component>
 </project>

@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02295342-e95b-49c1-ac48-e0e4fdd85684" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/ephemeral/Packages/FlutterGeneratedPluginSwiftPackage/Package.swift" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Flutter/ephemeral/Packages/FlutterGeneratedPluginSwiftPackage/Package.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/ephemeral/flutter_native_integration.env" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Flutter/ephemeral/flutter_native_integration.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Podfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Podfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.h" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.m" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Assets/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Classes/SocialSharePlugin.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Classes/SocialSharePlugin.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/social_share.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/ios/social_share.podspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="02295342-e95b-49c1-ac48-e0e4fdd85684" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,61 +46,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.7758441973977006" />
-      <entry key="MS500" value="4.235724518084153" />
-      <entry key="S2" value="6.075046777015795" />
-      <entry key="S5" value="6.605466633530298" />
-      <entry key="S10" value="6.806967786588195" />
-      <entry key="S30" value="9.241927179210675" />
-      <entry key="S60" value="16.35159832141962" />
-      <entry key="M2" value="26.36975044713536" />
-      <entry key="M5" value="41.60032068403158" />
-      <entry key="M10" value="54.517270339729954" />
-      <entry key="M15" value="61.336883652495544" />
-      <entry key="M30" value="70.232804059055" />
-      <entry key="H1" value="75.69662016962006" />
-      <entry key="H2" value="78.73458117621118" />
-      <entry key="H4" value="80.33767725164645" />
-      <entry key="D1" value="81.71872886531102" />
-      <entry key="W1" value="81.959713737606" />
+      <entry key="MS100" value="1.628397652792682" />
+      <entry key="MS500" value="3.609593954894101" />
+      <entry key="S2" value="6.253878535253644" />
+      <entry key="S5" value="7.227038665075847" />
+      <entry key="S10" value="8.010398394921504" />
+      <entry key="S30" value="15.65753145205236" />
+      <entry key="S60" value="24.20495532530123" />
+      <entry key="M2" value="31.66313377544439" />
+      <entry key="M5" value="41.010471632051996" />
+      <entry key="M10" value="54.04102941517219" />
+      <entry key="M15" value="66.14941670789953" />
+      <entry key="M30" value="90.79571230338011" />
+      <entry key="H1" value="112.4298896922875" />
+      <entry key="H2" value="127.02660403876331" />
+      <entry key="H4" value="135.54236418833227" />
+      <entry key="D1" value="143.3536888102507" />
+      <entry key="W1" value="144.76303349955154" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="6.318163141067072E-139" />
-      <entry key="S5" value="5.250931275430299E-56" />
-      <entry key="S10" value="2.2914910594262175E-28" />
-      <entry key="S30" value="6.11936073767883E-10" />
-      <entry key="S60" value="2.4737341687575925E-5" />
-      <entry key="M2" value="0.004973664814558367" />
-      <entry key="M5" value="0.1198589877388866" />
-      <entry key="M10" value="0.34620656801812216" />
-      <entry key="M15" value="0.49304913572707426" />
-      <entry key="M30" value="0.7021745763890017" />
-      <entry key="H1" value="0.8379585767739364" />
-      <entry key="H2" value="0.9154007738547826" />
-      <entry key="H4" value="0.9567657884011033" />
-      <entry key="D1" value="0.9926609545056868" />
-      <entry key="W1" value="0.9989482522201707" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="7.38153030943173E-168" />
+      <entry key="S10" value="2.716897184184873E-84" />
+      <entry key="S30" value="1.3953754181477923E-28" />
+      <entry key="S60" value="1.181260097585535E-14" />
+      <entry key="M2" value="1.0868579012849527E-7" />
+      <entry key="M5" value="0.0016385854975942433" />
+      <entry key="M10" value="0.040479445371623374" />
+      <entry key="M15" value="0.1178934568704983" />
+      <entry key="M30" value="0.34335616620427545" />
+      <entry key="H1" value="0.5859660111339854" />
+      <entry key="H2" value="0.7654841677879338" />
+      <entry key="H4" value="0.8749195207491581" />
+      <entry key="D1" value="0.9779755960329295" />
+      <entry key="W1" value="0.9968235467521377" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.736549202498771" />
-      <entry key="MS500" value="4.209561094365987" />
-      <entry key="S2" value="6.065644905195515" />
-      <entry key="S5" value="6.601395618087308" />
-      <entry key="S10" value="6.804873835129445" />
-      <entry key="S30" value="9.240954164989997" />
-      <entry key="S60" value="16.350715982429648" />
-      <entry key="M2" value="26.373850667695482" />
-      <entry key="M5" value="41.71917754635283" />
-      <entry key="M10" value="54.86253280624512" />
-      <entry key="M15" value="61.82912809674851" />
-      <entry key="M30" value="70.93445624039241" />
-      <entry key="H1" value="76.53427953644848" />
-      <entry key="H2" value="79.64982162991171" />
-      <entry key="H4" value="81.29436003415024" />
-      <entry key="D1" value="82.71137557528728" />
-      <entry key="W1" value="82.95865994464678" />
+      <entry key="MS100" value="1.5914007113342772" />
+      <entry key="MS500" value="3.588584668914903" />
+      <entry key="S2" value="6.243215619651002" />
+      <entry key="S5" value="7.2219823628708255" />
+      <entry key="S10" value="8.007599857664246" />
+      <entry key="S30" value="15.65583901717799" />
+      <entry key="S60" value="24.203686544190653" />
+      <entry key="M2" value="31.662302949394892" />
+      <entry key="M5" value="41.0115972459564" />
+      <entry key="M10" value="54.08104568317652" />
+      <entry key="M15" value="66.2668426649085" />
+      <entry key="M30" value="91.13864853976727" />
+      <entry key="H1" value="113.01555579592173" />
+      <entry key="H2" value="127.79190644077974" />
+      <entry key="H4" value="136.41718332748258" />
+      <entry key="D1" value="144.33164620307335" />
+      <entry key="W1" value="145.7598544075978" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -147,6 +123,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "dart.analysis.tool.window.visible": "false",
@@ -191,7 +168,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732710569659</updated>
-      <workItem from="1779360208828" duration="2383000" />
+      <workItem from="1779360208828" duration="3545000" />
     </task>
     <servers />
   </component>
